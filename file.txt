@@ -5,3 +5,4 @@ I'm a text file
 I'm a text file
 Now I’ve added another line
 I'm a text file
+I'm a text file
